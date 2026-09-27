@@ -1,6 +1,21 @@
+# 1. OS Detection Logic
+ifeq ($(OS),Windows_NT)
+    # Windows settings
+    TARGET = quiz_game.exe
+    RM = if exist $(OBJ_DIR) rmdir /s /q $(OBJ_DIR) && if exist $(TARGET) del /f /q $(TARGET)
+    MKDIR = if not exist $(OBJ_DIR) mkdir $(OBJ_DIR)
+    RUN_CMD = .$(subst /,\,/$(TARGET))
+else
+    # Linux / macOS settings
+    TARGET = quiz_game
+    RM = rm -rf $(OBJ_DIR) $(TARGET)
+    MKDIR = mkdir -p $(OBJ_DIR)
+    RUN_CMD = ./$(TARGET)
+endif
+
+# 2. Compiler Settings
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c11 -pedantic -O2 -Iinclude
-TARGET = quiz_game
 
 SRC_DIR = src
 INC_DIR = include
@@ -20,10 +35,10 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.c | $(OBJ_DIR)
 	$(CC) $(CFLAGS) -c $< -o $@
 
 $(OBJ_DIR):
-	mkdir -p $(OBJ_DIR)
+	@$(MKDIR)
 
 run: $(TARGET)
-	./$(TARGET)
+	$(RUN_CMD)
 
 clean:
-	rm -rf $(OBJ_DIR) $(TARGET)
+	@$(RM)
