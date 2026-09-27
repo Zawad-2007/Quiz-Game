@@ -1,0 +1,43 @@
+[Subject: Science]
+# Multiple-Choice Questions for Science
+
+Q: What is the chemical symbol for Gold?
+A: Ag
+B: Au
+C: Fe
+D: Pb
+Ans: B
+Exp: Au comes from the Latin word 'Aurum', meaning shining dawn.
+---
+Q: What organelle is known as the powerhouse of the cell?
+A: Nucleus
+B: Ribosome
+C: Mitochondria
+D: Endoplasmic Reticulum
+Ans: C
+Exp: Mitochondria generate most of the chemical energy (ATP) needed by the cell.
+---
+Q: What is the approximate speed of light in a vacuum?
+A: 300,000 km/s
+B: 150,000 km/s
+C: 3,000 km/s
+D: 30,000,000 km/s
+Ans: A
+Exp: The speed of light c is approximately 299,792 km/s (~300,000 km/s).
+---
+Q: What gas do green plants primarily absorb during photosynthesis?
+A: Oxygen
+B: Nitrogen
+C: Carbon Dioxide
+D: Hydrogen
+Ans: C
+Exp: Plants use carbon dioxide and water to produce glucose and release oxygen.
+---
+Q: Which planet in our solar system is nicknamed the Red Planet?
+A: Venus
+B: Jupiter
+C: Saturn
+D: Mars
+Ans: D
+Exp: Mars has a reddish appearance due to iron oxide (rust) on its surface.
+---

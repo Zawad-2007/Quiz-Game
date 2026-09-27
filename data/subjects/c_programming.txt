@@ -1,0 +1,83 @@
+[Subject: C Programming]
+# Multiple-Choice Questions for C Programming
+
+Q: Which format specifier is used to print an integer in C?
+A: %f
+B: %d
+C: %c
+D: %s
+Ans: B
+Exp: %d (or %i) is used for signed decimal integers.
+---
+Q: What is the size of 'char' data type in C standard?
+A: 1 byte
+B: 2 bytes
+C: 4 bytes
+D: Architecture dependent
+Ans: A
+Exp: In C, sizeof(char) is guaranteed to be 1 byte.
+---
+Q: Which header file is required to use malloc() and free()?
+A: <stdio.h>
+B: <string.h>
+C: <stdlib.h>
+D: <math.h>
+Ans: C
+Exp: Dynamic memory management functions are declared in <stdlib.h>.
+---
+Q: What does the '&' operator represent when placed before a variable name?
+A: Bitwise NOT
+B: Logical AND
+C: Address-of operator
+D: Pointer dereference
+Ans: C
+Exp: The '&' operator retrieves the memory address of its operand.
+---
+Q: Which symbol is used to terminate a statement in C?
+A: Period (.)
+B: Colon (:)
+C: Semicolon (;)
+D: Comma (,)
+Ans: C
+Exp: In C syntax, all expressions and statements must end with a semicolon (;).
+---
+Q: What value is represented by NULL pointer in C?
+A: Undefined
+B: Zero (0)
+C: Negative One (-1)
+D: 255
+Ans: B
+Exp: A NULL pointer is conceptually an address constant equal to 0.
+---
+Q: Which keyword is used to prevent modification of a variable's value?
+A: static
+B: volatile
+C: register
+D: const
+Ans: D
+Exp: The const keyword marks a variable as read-only.
+---
+Q: What is the return type of fopen() when it fails to open a file?
+A: -1
+B: EOF
+C: NULL
+D: False
+Ans: C
+Exp: fopen returns a valid FILE pointer on success, or NULL on error.
+---
+Q: Which loop structure guarantees at least one execution of its body?
+A: for loop
+B: while loop
+C: do-while loop
+D: nested for loop
+Ans: C
+Exp: The do-while loop tests its condition at the end of each iteration.
+---
+Q: In C, string literals are terminated by which special character?
+A: '\n'
+B: '\t'
+C: '\0'
+D: '$'
+Ans: C
+Exp: Strings in C are null-terminated character arrays ending with '\0'.
+---

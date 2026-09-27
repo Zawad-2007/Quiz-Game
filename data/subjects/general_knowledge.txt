@@ -1,0 +1,51 @@
+[Subject: General Knowledge]
+# Multiple-Choice Questions for General Knowledge
+
+Q: What is the capital city of Australia?
+A: Sydney
+B: Melbourne
+C: Canberra
+D: Brisbane
+Ans: C
+Exp: Canberra was chosen as the compromise capital between Sydney and Melbourne in 1908.
+---
+Q: Who wrote the classic play 'Romeo and Juliet'?
+A: Charles Dickens
+B: William Shakespeare
+C: Mark Twain
+D: Jane Austen
+Ans: B
+Exp: William Shakespeare wrote Romeo and Juliet early in his career.
+---
+Q: What is the largest ocean on Earth?
+A: Atlantic Ocean
+B: Indian Ocean
+C: Arctic Ocean
+D: Pacific Ocean
+Ans: D
+Exp: The Pacific Ocean is the largest and deepest ocean on Earth.
+---
+Q: In which year did the Apollo 11 mission successfully land humans on the Moon?
+A: 1965
+B: 1969
+C: 1972
+D: 1975
+Ans: B
+Exp: Neil Armstrong and Buzz Aldrin landed on the Moon on July 20, 1969.
+---
+Q: Which country is known as the Land of the Rising Sun?
+A: China
+B: Japan
+C: South Korea
+D: Thailand
+Ans: B
+Exp: Japan is historically called the Land of the Rising Sun (Nihon / Nippon).
+---
+Q: How many continents are there on Earth?
+A: 5
+B: 6
+C: 7
+D: 8
+Ans: C
+Exp: The seven continents are Asia, Africa, North America, South America, Antarctica, Europe, and Australia.
+---
