@@ -1,0 +1,9 @@
+# Build artifacts
+obj/
+*.o
+quiz_game
+quiz_game.exe
+
+# Persistent user score data
+data/scores.txt
+
