@@ -476,4 +476,4 @@ Bob|Science|5|3|2|30|60.00|2026-10-06 16:37
 
 ## 📜 License
 
-This project is open-source and released under the [MIT License](LICENSE).
+This project is open-source and released under the [GPL License](LICENSE).
