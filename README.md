@@ -5,7 +5,7 @@ A modular, extensible, and feature-rich console-based multiple-choice quiz appli
 ![Language](https://img.shields.io/badge/Language-C11-blue.svg)
 ![Build](https://img.shields.io/badge/Build-GNU%20Make-brightgreen.svg)
 ![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/license-GNU/GPLv3-blue)
 
 ---
 
