@@ -3,6 +3,7 @@ obj/
 *.o
 quiz_game
 quiz_game.exe
+test*
 
 # Persistent user score data
 data/scores.txt
