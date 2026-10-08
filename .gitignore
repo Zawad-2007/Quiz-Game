@@ -4,6 +4,7 @@ obj/
 quiz_game
 quiz_game.exe
 test*
+Test*
 
 # Persistent user score data
 data/scores.txt
