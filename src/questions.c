@@ -1,5 +1,5 @@
-#include "questions.h"
-#include "ui.h"
+#include "../include/questions.h"
+#include "../include/ui.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

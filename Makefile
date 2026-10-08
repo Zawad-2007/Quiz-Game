@@ -15,7 +15,7 @@ endif
 
 # 2. Compiler Settings
 CC = gcc
-CFLAGS = -Wall -Wextra -std=c11 -pedantic -O2 -Iinclude
+CFLAGS = -Wall -Wextra -std=c11 -pedantic -O2
 
 SRC_DIR = src
 INC_DIR = include

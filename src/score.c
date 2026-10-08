@@ -1,5 +1,5 @@
-#include "score.h"
-#include "ui.h"
+#include "../include/score.h"
+#include "../include/ui.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
